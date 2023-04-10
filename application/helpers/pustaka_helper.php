@@ -11,3 +11,4 @@ alert-danger" role="alert">Akses ditolak. Anda belum login!!
  $role_id = $ci->session->userdata('role_id');
  }
 }
+// sama berarti dengan yang dari fabroian adni irawan

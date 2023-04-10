@@ -17,6 +17,7 @@ $user['image']; ?>" class="card-img" alt="...">
 ?></h5>
  <p class="card-text"><?= $user['email']; ?></p>
  <p class="card-text"><small class="text-muted">Jadi member sejak: <br><b><?= date('d F Y', 
+ // ini yang member sejak dan bisa aja di hapus biar gausah tampil dari tahun 1970 wkkw
 $user['tanggal_input']); ?></b></small></p>
  </div>
  <div class="btn btn-info ml-3 my-3">
