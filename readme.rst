@@ -1,3 +1,1 @@
-INI Tugas Individu
-
-Mengerjakan sejak pertemuan pertama dan tugas pertama, sejak pertemuan ke 2. tugas sudah saya pisahkan dengan branch. 
+disini selesai tugas nya dan penyatuan beberapa branch, untuk di merged ke master branch utama yaitu. dengan nama branch WP2 SELESAI

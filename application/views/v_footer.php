@@ -1,6 +1,6 @@
 <footer>
- <a href=‛http://www.RentalBuku.com‛>RentalBuku</a>
+ <a href=‛http://www.RentalBuku.com‛><center>Kelompok 3</center></a>
  </footer>
- </div>
+</div>
 </body>
 </html>
